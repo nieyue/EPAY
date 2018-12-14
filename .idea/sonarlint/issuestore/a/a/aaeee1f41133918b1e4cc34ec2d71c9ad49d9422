@@ -1,0 +1,35 @@
+
+<squid:S1989"%Add a "try/catch" block for "doPost".(‘›þá
+Esquid:S1989œ"&Add a "try/catch" block for "forward".(ÿ³·8ØæÌ‚ú,
+asquid:UselessImportCheck"6Remove this unused import 'com.apiins.jarTest.Config'.(†íëÂ8Ù†á‚ú,
+gsquid:CommentedOutCodeLine "<This block of commented-out lines of code should be removed.(‡ÿóšùÿÿÿÿ
+psquid:S00117T"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ðâØ8áÕ¢³ú,
+usquid:S00117@"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëàÕ“ùÿÿÿÿ8»ºÆ‚ú,
+gsquid:UselessImportCheck"<Remove this unused import 'com.sun.deploy.util.StringUtils'.(Ï¥¯ö8ÒÒ¿‚ú,
+psquid:S00117Z"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸üôÛ8ØæÌ‚ú,
+<squid:S1989"%Add a "try/catch" block for "doPost".(‘›þá
+usquid:S00117N"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹œ­ûÿÿÿÿ8í¿É‚ú,
+psquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 45 to the 15 allowed.(­‘úå8»ºÆ‚ú,
+Gsquid:S1148’"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8ØæÌ‚ú,
+Jsquid:S1989—"&Add a "try/catch" block for "forward".(œ»˜úÿÿÿÿ8ØæÌ‚ú,
+usquid:S00117G"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ý»žùÿÿÿÿ8Ð¹È‚ú,
+usquid:S00117x"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹š»–üÿÿÿÿ8¢ÑÓ‚ú,
+Ssquid:S1191"5Use classes from the Java API instead of Sun classes.(Ï¥¯ö8ÒÒ¿‚ú,
+jsquid:CommentedOutCodeLine†"<This block of commented-out lines of code should be removed.(ù”½µ8ØæÌ‚ú,
+esquid:UselessImportCheck";Remove this unused import 'com.apiins.jarTest.TCheckUtils'.(­öÑ8­Áà‚ú,
+psquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²×Èž8ºÔ‚ú,
+:squid:S3626"Remove this redundant jump.(ûÁÝ…8ØæÌ‚ú,
+esquid:S2259”"AA "NullPointerException" could be thrown; "map" is nullable here.(žÛø øÿÿÿÿ8ØæÌ‚ú,
+psquid:S001179"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±ôÖª8à­Ä‚ú,
+Nsquid:S1135"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿ
+psquid:S00117+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›ŽôÌ8üÐ²ú,
+osquid:S00117h"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï­“u8Ÿ¯Ï‚ú,
+:squid:S3626˜"Remove this redundant jump.(ûÁÝ…8ØæÌ‚ú,
+psquid:S00117q"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±§á¼8þâÐ‚ú,
+usquid:S001172"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öû‚Óýÿÿÿÿ8üÐ²ú,
+:squid:S2326"sout is not used in the class.(õ…˜Äýÿÿÿÿ
+usquid:S00117a"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñóœ®øÿÿÿÿ8öŒÎ‚ú,
+Jsquid:S1989—"&Add a "try/catch" block for "forward".(œ»˜úÿÿÿÿ8ØæÌ‚ú,
+Esquid:S1989œ"&Add a "try/catch" block for "forward".(ÿ³·8ØæÌ‚ú,
+psquid:S00117$"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Þ²ª‚8ÇÆé‚ú,
+fsquid:S00119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(õ…˜Äýÿÿÿÿ

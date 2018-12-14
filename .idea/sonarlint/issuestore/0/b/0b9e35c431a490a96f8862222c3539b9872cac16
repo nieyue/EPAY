@@ -1,0 +1,57 @@
+
+hsquid:S1192¾"JDefine a constant instead of duplicating this literal "ExtractNo" 3 times.(ŠĞ¯|8ÏÖß‚ú,
+lsquid:S11925"NDefine a constant instead of duplicating this literal "errorMessage" 17 times.(†úÂ8ÏÖß‚ú,
+fsquid:S1192ª"GDefine a constant instead of duplicating this literal "IsTest" 3 times.(Ä•¿è8ÏÖß‚ú,
+psquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªÊº”8ÏÖß‚ú,
+Gsquid:S1148Û"#Use a logger to log this exception.(Çëâ‹øÿÿÿÿ8ÏÖß‚ú,
+fsquid:S00112‰"FDefine and throw a dedicated exception instead of using a generic one.(·¢í8ÏÖß‚ú,
+Bsquid:S1148ä"#Use a logger to log this exception.(ˆáù×8ÏÖß‚ú,
+isquid:S1192"KDefine a constant instead of duplicating this literal "errorCode" 20 times.(Ù²Ú8ÏÖß‚ú,
+Tsquid:S1905Q"6Remove this unnecessary cast to "EpPayinterActiveDTO".(ŠàÂ8ÏÖß‚ú,
+Bsquid:S1148Æ"#Use a logger to log this exception.(ˆáù×8ÏÖß‚ú,
+msquid:S1192«"ODefine a constant instead of duplicating this literal "BusinessSource" 3 times.(ÏËËW8ÏÖß‚ú,
+Gsquid:S1148¦"#Use a logger to log this exception.(Çëâ‹øÿÿÿÿ8ÏÖß‚ú,
+Bsquid:S1148›"#Use a logger to log this exception.(€üšÀ8ÏÖß‚ú,
+Tsquid:S1905Q"6Remove this unnecessary cast to "EpPayinterActiveDTO".(ŠàÂ8ÏÖß‚ú,
+Usquid:S1905ò"6Remove this unnecessary cast to "EpPayinterActiveDTO".(Ê½É8ÏÖß‚ú,
+esquid:S1858µ"G"getProductNum" returns a string, there's no need to call "toString()".(ãài8ÏÖß‚ú,
+Zsquid:S1905Ä"6Remove this unnecessary cast to "EpPayinterActiveDTO".(µ¯Óşùÿÿÿÿ8ÏÖß‚ú,
+Zsquid:S1905«"6Remove this unnecessary cast to "EpPayinterActiveDTO".(¸şÒÕùÿÿÿÿ8ÏÖß‚ú,
+osquid:S1192¹"KDefine a constant instead of duplicating this literal "ExtContent" 3 times.(íÖ¼Ëıÿÿÿÿ8ÏÖß‚ú,
+Ÿsquid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ö¿Ä8ğïã‚ú,
+jsquid:S1192l"GDefine a constant instead of duplicating this literal "UTF-8" 11 times.(ããè”ıÿÿÿÿ8ÏÖß‚ú,
+Zsquid:S1905í"6Remove this unnecessary cast to "EpPayinterActiveDTO".(µ¯Óşùÿÿÿÿ8ÏÖß‚ú,
+Zsquid:S1905Á"6Remove this unnecessary cast to "EpPayinterActiveDTO".(’ÓĞıÿÿÿÿ8ÏÖß‚ú,
+jsquid:S1858ß"F"getSumAmount" returns a string, there's no need to call "toString()".(„ûÿÿÿÿ8ÏÖß‚ú,
+osquid:S1192Á"KDefine a constant instead of duplicating this literal "ProposalNo" 3 times.(’ÓĞıÿÿÿÿ8ÏÖß‚ú,
+Ssquid:S1905R"6Remove this unnecessary cast to "EpPayinterActiveDTO".(†’8ÏÖß‚ú,
+ksquid:S1192©"LDefine a constant instead of duplicating this literal "TypeChannel" 3 times.(Û¤è8ÏÖß‚ú,
+vsquid:S00117‹"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îßäùÿÿÿÿ8ÏÖß‚ú,
+Bsquid:S1148³"#Use a logger to log this exception.(ˆáù×8ÏÖß‚ú,
+Usquid:S1905É"6Remove this unnecessary cast to "EpPayinterActiveDTO".(Ê½É8ÏÖß‚ú,
+Ssquid:S1905R"6Remove this unnecessary cast to "EpPayinterActiveDTO".(†’8ÏÖß‚ú,
+Ysquid:S1905S"6Remove this unnecessary cast to "EpPayinterActiveDTO".(ĞÇ‹¸ÿÿÿÿÿ8ÏÖß‚ú,
+Gsquid:S1148ï"#Use a logger to log this exception.(µ•—Ÿúÿÿÿÿ8ÏÖß‚ú,
+Usquid:S1905¬"6Remove this unnecessary cast to "EpPayinterActiveDTO".(Ê½É8ÏÖß‚ú,
+Usquid:S1905®"6Remove this unnecessary cast to "EpPayinterActiveDTO".(ıÅßÚ8ÏÖß‚ú,
+psquid:S00117'"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªÊº”8ÏÖß‚ú,
+jsquid:S1858¶"F"getSumAmount" returns a string, there's no need to call "toString()".(„ûÿÿÿÿ8ÏÖß‚ú,
+Tsquid:S1905P"6Remove this unnecessary cast to "EpPayinterActiveDTO".(èˆí¨8ÏÖß‚ú,
+Bsquid:S1148²"#Use a logger to log this exception.(€üšÀ8ÏÖß‚ú,
+Usquid:S1905±"6Remove this unnecessary cast to "EpPayinterActiveDTO".(Ú‰¾ß8ÏÖß‚ú,
+bsquid:S1858É"C"getAmount" returns a string, there's no need to call "toString()".(Ê½É8ÏÖß‚ú,
+esquid:S1858Ş"G"getProductNum" returns a string, there's no need to call "toString()".(ãài8ÏÖß‚ú,
+Usquid:S1905±"6Remove this unnecessary cast to "EpPayinterActiveDTO".(Ú‰¾ß8ÏÖß‚ú,
+bsquid:S1858ò"C"getAmount" returns a string, there's no need to call "toString()".(Ê½É8ÏÖß‚ú,
+fsquid:S1192É"GDefine a constant instead of duplicating this literal "Amount" 3 times.(Ê½É8ÏÖß‚ú,
+Zsquid:S1905ª"6Remove this unnecessary cast to "EpPayinterActiveDTO".(’ÓĞıÿÿÿÿ8ÏÖß‚ú,
+esquid:S001121"FDefine and throw a dedicated exception instead of using a generic one.(î¢ñ‘8ÏÖß‚ú,
+qsquid:S37761"SRefactor this method to reduce its Cognitive Complexity from 175 to the 15 allowed.(î¢ñ‘8ÏÖß‚ú,
+bsquid:S1858¬"C"getAmount" returns a string, there's no need to call "toString()".(Ê½É8ÏÖß‚ú,
+nsquid:S1192¶"JDefine a constant instead of duplicating this literal "SumAmount" 3 times.(„ûÿÿÿÿ8ÏÖß‚ú,
+Gsquid:S1148»"#Use a logger to log this exception.(Çëâ‹øÿÿÿÿ8ÏÖß‚ú,
+Gsquid:S1125"(Remove the literal "true" boolean value.(¦ÃŒé8ÏÖß‚ú,
+Zsquid:S1905ê"6Remove this unnecessary cast to "EpPayinterActiveDTO".(’ÓĞıÿÿÿÿ8ÏÖß‚ú,
+;squid:S1118"Hide this public constructor.(ö¿Ä8ğïã‚ú,
+Zsquid:S1905­"6Remove this unnecessary cast to "EpPayinterActiveDTO".(ñ¨“Ûıÿÿÿÿ8ÏÖß‚ú,
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ì…ğ¢8Ù°­³ú,

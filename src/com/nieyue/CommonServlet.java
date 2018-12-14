@@ -80,7 +80,12 @@ public class CommonServlet<sout> extends HttpServlet{
 			ep.setProductName("测试");
 		}else{
 			ep.setProductName(ProductName);
-
+		}
+		String ProductNum=req.getParameter("ProductNum");
+		if(ProductNum==null||"".equals(ProductNum)){
+			ep.setProductNum("1");
+		}else{
+			ep.setProductNum(ProductNum);
 		}
 		String SumAmount=req.getParameter("SumAmount");
 		if(SumAmount==null||"".equals(SumAmount)){
